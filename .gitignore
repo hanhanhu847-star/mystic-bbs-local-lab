@@ -1,0 +1,13 @@
+# Allowlist public repo contents; keep local/runtime data untracked.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/docs/
+!/scripts/
+/docs/*
+!/docs/使用手册.md
+!/docs/配置表.md
+!/docs/验收清单.md
+/scripts/*
+!/scripts/Test-BbsLocal.ps1
